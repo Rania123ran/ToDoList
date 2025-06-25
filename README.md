@@ -1,1 +1,1 @@
-<img src="TODOLIST/images/Screen1.png" alt="image" width="440"/>
+<img src="ToDoList/images/Screen1.png" alt="image" width="440"/>
